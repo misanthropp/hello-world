@@ -1,2 +1,4 @@
 # hello-world
-repository
+
+darova rabotyagi!
+slava ukraine! geroin sliva!
